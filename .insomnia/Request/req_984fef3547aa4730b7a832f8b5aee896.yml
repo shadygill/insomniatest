@@ -1,23 +1,15 @@
 _id: req_984fef3547aa4730b7a832f8b5aee896
 type: Request
 parentId: wrk_b707d4ff523943e7b8e9e7d89cb79d65
-modified: 1668863992910
+modified: 1668865438067
 created: 1668863558604
-url: https://techbuyhelp.com/dummyapi
+url: https://echo.hoppscotch.io
 name: This is test
 description: ""
 method: GET
-body:
-  mimeType: application/json
-  text: |-
-    {
-    	"hi":"hello",
-    	"hi":"hello"
-    }
+body: {}
 parameters: []
-headers:
-  - name: Content-Type
-    value: application/json
+headers: []
 authentication: {}
 metaSortKey: -1668863558604
 isPrivate: false
